@@ -1,0 +1,182 @@
+/* https://coolors.co/palette/1d1f20-212529-343a40-495057-6c757d-adb5bd-ced4da-dee2e6-e9ecef-f8f9fa */
+
+body{
+    background-color: #212529;
+   
+    
+}
+h1{
+    color: #F8F9FA;
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+#pic{
+    width: 20%;
+    padding-top: 30px;
+    
+}
+#name {
+    padding-top: 90px;
+    text-shadow: 3px 3px 3px #6C757D;
+   
+}
+#home p{
+    color: #ADB5BD;
+    font-size: 20px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    line-height: 28px;
+}
+
+.l{
+    display:inline;
+    font-family: "League Spartan", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+    padding-right: 70px;
+    padding-left: 70px;
+    color:black;
+   
+
+}
+
+.menu{
+    position:fixed;
+    width:100%;
+    height:50px;
+    background:  #343A40;
+    top:0px;
+    left:0px !important;
+    z-index: 5;
+    margin-top: 0px;
+    
+    
+};
+
+.l a:link {
+    color:black;
+    text-decoration: none;
+   
+}
+
+.l a:visited {
+    color:black;
+    text-decoration: none;
+    
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.menu1{
+    position:fixed;
+    width:100%;
+    height:50px;
+    background:  #343A40;
+    top:0px;
+    left: 0px;
+    padding-left: 20px;
+    z-index: 5;
+    margin-top: 0px;
+}
+
+.l1{
+    font-family: "League Spartan", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+    color:black;
+    display:inline;
+}
+
+.l1 a:link {
+    color:black;
+    text-decoration: none;
+   
+}
+
+.l1 a:visited {
+    color:black;
+    text-decoration: none;
+    
+}
+
+.game img {
+    width: 250;
+    height: 250;
+    border-radius: 20px;
+}
+
+.game:hover{
+    transform: scale(1.1);
+    transform-origin: center;
+}
+
+.game {
+    padding :50px;
+}
+
+.games {
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+   
+}
+
+.game h5{
+    color: #ADB5BD;
+    font-size: large;
+}
+
+.game h5:hover{
+    color: #F8F9FA;
+}
+
+#contact iframe{
+    width: 90%;
+    margin-bottom: 80px;
+}
+
+h2{
+    color:#F8F9FA;
+    text-decoration: underline;
+
+}
+
+#certi{
+    width: 20%;
+}
+
+#li{
+    color:#ADB5BD;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+i{
+    color:#ADB5BD;
+    padding-right: 5px;
+}
+
+#li a:link{
+    color: #ADB5BD;
+}
+
+#li a:visited{
+    color: #ADB5BD;
+}
+
+#copyright{
+    font-size: 12px;
+    color: #ADB5BD;
+}
